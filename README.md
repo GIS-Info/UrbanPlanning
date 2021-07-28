@@ -2,12 +2,10 @@
 PhD programs of Urban Planning outside mainland China
 
 
-
-
 ### 德克萨斯农工大学
 **Texas A&M University (TAMU)**
 
-Urban planning:[Department of Landscape Architecture & Urban Planning](http://laup.arch.tamu.edu)
+Urban planning: [Department of Landscape Architecture & Urban Planning](http://laup.arch.tamu.edu)
 
 The Urban & Regional Sciences (URSC) program in Department of Landscape Architecture & Urban Planning, Texas A&M University has a nearly 50-year history and continues to be one of the largest planning doctoral programs in the nation. The URSC program is transdisciplinary with a focus on landscape and urban planning issues. It emphasizes the interface of human systems with the natural environment, espacially in the areas of health systems, sustainability, housing and community development, transportation, and environmental hazards. The URSC requires a minimum of 64 credit hours, including 32 credits of core curriculum, and 32 or more credits of electives and research credits.
 
@@ -15,14 +13,14 @@ The Urban & Regional Sciences (URSC) program in Department of Landscape Architec
 ### 德克萨斯大学奥斯汀分校
 **University of Texas at Austin (UT Austin)**
 
-Urban planning:[School of Architecture](https://soa.utexas.edu/) 
+Urban planning: [School of Architecture](https://soa.utexas.edu/) 
 
 The Community and Regional Planning(CRP) Program ranks as one of the top 15 programs in the nation and is housed within The University of Texas at Austin School of Architecture (UTSOA), itself consistently ranked as one of the top ten schools of architecture in the nation. CRP program has a strong focus on sustainable development processes and practices. The CRP Program carries out exciting research and project work in their local community and around the world. In the past year their have worked in neighborhoods in Austin and small towns in the larger metropolitan area, highland areas of Mexico, rapidly growing cities in China, and informal settlement communities in the Dominican Republic. The program offers a Masters in Community and Regional Planning, five dual master degree programs(Latin American Studies, Law, Public Affairs, Sustainable Design,Urban Design), and a Ph.D. in Community and Regional Planning. The Master program requires a minimum of 48 credit hours and The Ph.D program requires a minimum of 51 credit hours.
 
 ### 波士顿大学
 **Boston University**
 
-Urban planning:[Metropolitan College](https://www.bu.edu/met/)
+Urban planning: [Metropolitan College](https://www.bu.edu/met/)
 
 Metroplitan College in Boston University offers two [Master programs](https://www.bu.edu/met/programs/) in urban planning: The Master of Urban Affairs (MUA) and The Master of City Planning (MCP).
 
@@ -37,7 +35,7 @@ The city planner, now more than ever, has the opportunity to address some unique
 ### 哈佛大学
 **Harvard University**
 
-Urban Planning:[The Department of Urban Planning and Design](https://www.gsd.harvard.edu/urban-planning-design/)
+Urban Planning: [The Department of Urban Planning and Design](https://www.gsd.harvard.edu/urban-planning-design/)
 
 https://www.gsd.harvard.edu/doctoral-programs/doctor-of-philosophy/
 
@@ -47,10 +45,7 @@ https://www.gsd.harvard.edu/doctoral-programs/doctor-of-philosophy/
 ### 麻省理工学院
 **Massachusetts Institute of Technology**
 
-Urban Planning:[Department of Urban Studies and Planning](https://dusp.mit.edu/)
-
-http://web.mit.edu/dusp/dusp_extension_unsec/handbook/PhD_Program.html
-
+Urban Planning: [Department of Urban Studies and Planning](https://dusp.mit.edu/)
 
 [Doctor of Philosophy in Urban Studies and Planning](https://dusp.mit.edu/degrees/doctoral) program is the advanced research degree program in urban planning or urban studies and is focused on training individuals for research and teaching in the areas of applied social research and planning.
 
@@ -62,7 +57,7 @@ PhD students normally take three-to-four semesters of classes, before taking the
 ### 东北大学
 **Northeastern University**
 
-Urban Planning:[School of Public Policy and Urban Affairs](https://cssh.northeastern.edu/policyschool/)
+Urban Planning: [School of Public Policy and Urban Affairs](https://cssh.northeastern.edu/policyschool/)
 
 Northeastern’s [PhD in Public Policy](https://cssh.northeastern.edu/policyschool/program/phd-in-public-policy/) is a selective, full-time, in-residence doctoral program for individuals interested in academic careers or in conducting policy-relevant research in high-level professional settings such as think tanks, nonprofit organizations, private sector firms, and a range of government institutions. The Program equips students with the skills to solve issues of pressing concern to society at local, national, and international levels, from health care, sustainability and resilience, to transportation, housing and community development.
 
@@ -75,7 +70,7 @@ The programs have three concentrations: Sustainability and Resilience, Urban and
 ### 塔夫茨大学
 **Tufts University**
 
-Urban Planning:[The Department of Urban and Environmental Policy and Planning](https://as.tufts.edu/uep/)
+Urban Planning: [The Department of Urban and Environmental Policy and Planning](https://as.tufts.edu/uep/)
 
 
 The Department of Urban and Environmental Policy and Planning offers [four Master's programs](https://as.tufts.edu/uep/current/masters), designed to sharpen the skills of policy and planning professionals working toward inclusive, just, and sustainable communities. The programs are Master of Arts (M.A.) in Urban and Environmental Policy and Planning, Master of Science (M.S.) in Environmental Policy and Planning, Master of Science (M.S.) in Sustainability, Master of Public Policy (M.P.P.) for Mid-Career Professionals.
@@ -84,7 +79,7 @@ The Department of Urban and Environmental Policy and Planning offers [four Maste
 ### 马萨诸塞大学阿默斯特分校
 **University of Massachusetts, Amherst**
 
-Urban Planning:[Department of Landscape Architecture and Regional Planning](https://www.umass.edu/larp/)
+Urban Planning: [Department of Landscape Architecture and Regional Planning](https://www.umass.edu/larp/)
 
 Our combined department (Landscape Architecture and Regional Planning) provides professionally accredited degrees (MRP, MLA, BSLA), one of the most innovative sustainability-focused undergraduate degrees in the country (Sustainable Community Development), a skills-based 2-year Associate of Landscape Contracting, and a [PhD in Regional Planning](https://www.umass.edu/larp/graduate/phd-planning). We research, design, teach, and do community outreach to create Sustainable Solutions to Complex Problems.
 
@@ -95,7 +90,7 @@ The Ph.D. program in Regional Planning leads to a research degree for students i
 
 **University of Massachusetts, Boston**
 
-Urban Planning:[School for the Environment](https://environment.umb.edu/)
+Urban Planning: [School for the Environment](https://environment.umb.edu/)
 
 UMass Boston's [Urban Planning and Community Development master's program](https://environment.umb.edu/graduate-programs/urban-planning-and-community-development-ms) is designed to make you an expert in the theory and practice of planning urban spaces and economies. The program brings together the expertise of faculty from several colleges within the university and builds upon decades of research and community engagement by the university’s institutes and centers, which collectively focus on the metropolitan area’s diverse population, governance, and its built and natural environments. In addition, the program takes advantage of partnerships with community-based organizations to promote economic development, affordable housing, and small business development, with a deliberate agenda to address social and environmental inequity and serve the needs and interests of underrepresented communities.
 
@@ -110,7 +105,7 @@ UMass Boston's [Urban Planning and Community Development master's program](https
  
 **Rutgers University**
 
-Urban Planning:[Edward J. Bloustein School of Planning and Public Policy](https://bloustein.rutgers.edu/)
+Urban Planning: [Edward J. Bloustein School of Planning and Public Policy](https://bloustein.rutgers.edu/)
 
 [The doctoral program in Planning and Public Policy](https://bloustein.rutgers.edu/graduate/doctoral-studies/) is designed to prepare graduates for a career in academia, research, and other professions. These careers require broad-based knowledge of research methods and design combined with a desire to make the world a better place. Our program is multi-disciplinary and covers multiple elements of planning and public policy, including transportation, education, community development, social policy, workforce development and labor economics, gender and inequality, regional planning and development, public health and environmental planning, urban informatics, geographic information science, among many different topical areas.
 
@@ -121,7 +116,7 @@ Our program is highly selective and we use a broad range of criteria in making a
 
 **Columbia University**
 
-Urban Planning:[Graduate School of Architecture, Planning and Preservation](https://www.arch.columbia.edu/)
+Urban Planning: [Graduate School of Architecture, Planning and Preservation](https://www.arch.columbia.edu/)
 
 [The Ph.D. in Urban Planning](https://www.arch.columbia.edu/programs/11-ph-d-in-urban-planning) is focused on training individuals for future careers as teachers, researchers, policy-makers, and business entrepreneurs in the field of urban planning—in academia, government agencies, non-governmental organizations, and think tanks. The program equips individuals with the theoretical and methodological expertise to address important contemporary issues, such as climate change, transportation, immigration/forced migration, housing, spatial analysis, and poverty and inequality. It is a highly competitive doctoral program, accepting only three candidates each year. In consultation with faculty, candidates develop individual study programs anchored in advanced knowledge concerning the socioeconomic, political, and environmental processes that shape cities and regions, and the quality of life within them. Underlying these inquiries are questions related to the effectiveness of urban processes, and their justice, democracy, and ethics. The Ph.D. in Urban Planning is a program within the Graduate School of Architecture, Planning and Preservation (GSAPP) while the actual degree is granted by the Graduate School of Arts and Sciences (GSAS).
 
@@ -129,7 +124,7 @@ Urban Planning:[Graduate School of Architecture, Planning and Preservation](http
 
 **Cornell University**
 
-Urban Planning:[Department of City and Regional Planning](https://aap.cornell.edu/academics/crp)
+Urban Planning: [Department of City and Regional Planning](https://aap.cornell.edu/academics/crp)
 
 The Department of City and Regional Planning (CRP) offers several options for graduate work in city and regional planning, historic preservation planning, regional science, and studies in real estate.
 
@@ -144,4 +139,4 @@ AAP offers both an M.A. and a Ph.D. in regional science.
 
 Cornell was one of the first institutions in the country to offer preservation classes and is internationally recognized as a leader in the field. AAP offers an M.A. in Historic Preservation Planning.
 
-[Historic Preservation Planning](https://aap.cornell.edu/academics/crp/graduate/hpp)
+[Historic Preservation Planning](https://aap.cornell.edu/academics/crp/graduate/hpp)/academics/crp/graduate/hpp)
