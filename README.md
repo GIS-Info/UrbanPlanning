@@ -139,4 +139,4 @@ AAP offers both an M.A. and a Ph.D. in regional science.
 
 Cornell was one of the first institutions in the country to offer preservation classes and is internationally recognized as a leader in the field. AAP offers an M.A. in Historic Preservation Planning.
 
-[Historic Preservation Planning](https://aap.cornell.edu/academics/crp/graduate/hpp)/academics/crp/graduate/hpp)
+[Historic Preservation Planning](https://aap.cornell.edu/academics/crp/graduate/hpp)
