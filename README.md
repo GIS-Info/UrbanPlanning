@@ -140,3 +140,109 @@ AAP offers both an M.A. and a Ph.D. in regional science.
 Cornell was one of the first institutions in the country to offer preservation classes and is internationally recognized as a leader in the field. AAP offers an M.A. in Historic Preservation Planning.
 
 [Historic Preservation Planning](https://aap.cornell.edu/academics/crp/graduate/hpp)
+
+### 纽约城市大学
+
+**City University of New York**
+
+Urban Planning: [Hunter Urban Policy & Planning](https://www.hunterurban.org/)
+
+[Master of Urban Planning (MUP)](https://www.hunterurban.org/master-of-urban-planning)trains students in the art of urban planning through a carefully constructed curriculum that balances theory and on-the-ground experiences. Through rigorous coursework, topical workshops, and a studio capstone project, students are prepared to become visionary planners in tune with the diverse needs of neighborhoods, cities, and regions around the globe. Our successful graduates are working as planners in the public, private, and non-profit sectors. Each student works closely with a faculty advisor to design a two-year curriculum plan. At the beginning of the first year, students outline their proposed curriculum plans. Students may make modifications at the end of each term, according to their changing interests. Students are encouraged to define clear academic and professional objectives. Please download the advising worksheet, which outlines the requirements listed below.
+
+[Master of Science in Urban Policy and Leadership (MSUPL)](https://www.hunterurban.org/master-of-science-in-urban-policy-and-leadership) prepares professionals to be leaders in communities, public agencies and non-profit organizations. Strong leaders are those who:
+* Have the capacity and skill to identify and assess assets and needs
+* Engage, empower and mobilize people and resources
+* Navigate complex policy processes and organizational systems
+* Craft actionable solutions for complex problems
+* Understand urban areas and the problems they face in our rapidly changing world
+
+[Dual-Degree Programs](https://www.hunterurban.org/dual-degree) The Department currently offers two joint degree programs for students with multiple professional interests. A dual Master degree is available through a cooperative program with The Hunter-Bellevue School of Nursing, leading to an MS Nursing Administration and an MS Urban Policy and   Leadership. A joint MUP/JD degree is available through a cooperative program with Brooklyn Law School. For more information, see below.
+
+### 纽约大学 
+
+**New York University**
+
+Urban Planning: [Wagner Graduate School of Public Service](https://wagner.nyu.edu/)
+
+[Ph.D. in Public Administration](https://wagner.nyu.edu/education/degrees/doctorate-public-administration) includes coursework, a preliminary qualifying examination, two comprehensive field examinations, a third-year research paper, regular participation in the NYU Wagner Research Colloquium throughout the degree, and a dissertation based on independent and original research defended before a faculty committee.
+
+### 普瑞特艺术学院
+
+**Pratt Institute**
+
+Urban Planning: [School of Architecture](https://catalog.pratt.edu/graduate/architecture/)
+
+[Master of City and Regional Planning](https://catalog.pratt.edu/graduate/architecture/planning-environment/city-regional-planning/) offered at the School of Architecture on the Brooklyn campus since its inception 50 years ago, has remained true to its emphasis on an education that stresses practice over theory, participatory planning over top-down policymaking, creativity over boilerplate, and advocacy over technocracy. Pratt’s accredited Master of Science in City and Regional Planning requires 60 credits. The schedule of classes allows students to enter in fall or spring, and complete their studies in two or two and a half years. To promote specialized or interdisciplinary study, half of the credits are in elective seminars and studios. While by no means required to do so, students can focus on one of six particular professional specializations, corresponding to the program’s areas of strength.
+
+### 纽约州立大学奥尔巴尼分校
+
+**University at Albany, SUNY**
+
+Urban Planning: [DEPARTMENT OF GEOGRAPHY AND PLANNING](https://www.albany.edu/geographyplanning)
+
+[Master of Urban and Regional Planning](https://www.albany.edu/geographyplanning/programs/mrp-urban-and-regional-planning) a 48-credit program prepares you for a professional urban planning career with neighborhood, community, state, and federal agencies, environmental consulting firms, commercial developers, transportation consulting firms, and urban housing and economic development groups.  
+
+You can choose from three areas of specialization in the master’s planning program: environmental and land use planning, transportation planning, and community planning, with opportunities to use data-driven, open-source, web-based tools to detect trends and monitor policy outcomes.
+
+### 纽约州立大学布法罗分校
+
+**University at Albany, Buffalo**
+
+Urban Planning: [The Department of Urban and Regional Planning](http://archplan.buffalo.edu/academics/urban-regional-planning.html)
+
+[PhD in Urban and Regional Planning](http://archplan.buffalo.edu/academics/graduate-degrees/phd.html) invites applications from outstanding candidates interested in pursuing a career in research and teaching through its PhD program in urban and regional planning. The program, designed to nurture distinguished scholars and researchers, offers research and learning opportunities encompassing the field of urban and regional planning. Examples of some research areas where the program offers special capability, international distinction, and emphasis include:
+* Declining cities and distressed urban communities
+* Health, food systems, human abilities, and environment
+* Built environments and environmental change
+* Disasters and extreme events
+* Advanced technology, information systems, and methods in planning
+
+Students have opportunities to study under the supervision of faculty from the Department of Urban and Regional Planning, and under the supervision of interdisciplinary co-chairs from the Department of Urban and Regional Planning and the Department of Architecture. 
+
+### 宾州印第安纳大学
+
+**Indiana University of Pennsylvania**
+
+[DEPARTMENT OF GEOGRAPHY AND REGIONAL PLANNING](https://www.iup.edu/georegionalplan/undergrad/regional-planning/)
+
+只有本科项目
+
+### 天普大学
+
+**Temple University**
+
+Urban Planning: [TYLER SCHOOL OF ART AND ARCHITECTURE](https://tyler.temple.edu/programs/planning-community-development)
+
+[Master of Science (MS) in City & Regional Planning](https://tyler.temple.edu/programs/planning-community-development/degree#node-10681) prepares students to become planning professionals with the knowledge, skills and capacities to address the complex challenges facing neighborhoods, cities and regions. Students learn how to navigate the challenges of policy making in a multi-tiered regulatory framework and within a pluralistic society. They learn communication skills and the tools necessary to be effective professionals working with a range of communities, administrative stakeholders and diverse interest groups in the processes of planning and decision making.
+
+The curriculum builds knowledge and skills in social and environmental planning and governmental structures, and develops advanced computer applications for planning. Sustainability is central to the curriculum.
+
+Tyler’s faculty are distinguished by their rich professional experience, robust networks and interdisciplinary research interests. Part-time faculty are employed in senior planning positions throughout the Philadelphia region and bring their expertise to the classroom. Students may also pursue a concentration in transportation planning or sustainable community planning.
+
+### 宾夕法尼亚大学
+
+**University of Pennsylvania**
+
+Urban Planning: [Stuart Weitzman School of Desig](https://www.design.upenn.edu/)
+
+[Doctoral Program in City and Regional Planning](https://www.design.upenn.edu/city-regional-planning/phd/about) The University of Pennsylvania is an intellectually stimulating environment in which to study the today’s metropolitan challenges. To develop responses, our Ph.D. students have easy access to a broad, multi-disciplinary faculty and all the resources of a first-rate urban research university.
+
+Penn’s Ph.D. program in City and Regional Planning (CPLN), overseen by the Graduate Group in City and Regional Planning dates back to the 1950s. Since that time, the faculty have guided more than 330 students though their graduate studies to the completion of the degree and aided them in assuming positions of leadership in both academia and the profession throughout the United States and across the world. For a complete list graduates and their dissertations, see the [Doctoral Student Handbook](https://www.design.upenn.edu/sites/default/files/uploads/CPLN/12.11.20%20PhD%20Handbook.pdf).
+
+### 宾州西彻斯特大学
+
+**West Chester University**
+
+Urban Planning: [Department of Geography and Planning](https://www.wcupa.edu/business-PublicManagement/geographyPlanning/default.aspx)
+
+[Master of Urban and Regional Planning](https://catalog.wcupa.edu/graduate/business-public-management/geography-planning/master-urban-regional-planning/) prepares students to enter the workforce as  professional planners and thereby meet the growing demand for urban and regional planners in the region. Professional planners help to influence the future of neighborhood, local, regional and metropolitan areas. A planner plays a major role in shaping communities, in providing guidance for sustainable development, and in addressing social, economic, environmental and political problems of communities.
+
+The program curriculum equips students with the professional planning knowledge and technical skills to guide the complex processes of a changing world, and to utilize geospatial and other technologies to create a sustainable built and natural environment. Students will understand how to make decisions based on sound knowledge and guided by the American Institute of Certified Planners (AICP) Code of Ethics. The program has been designed to align with the standards of the Planning Accreditation Board (PAB) of the Association of Collegiate Schools of Planning (ACSP).  Students will develop specific competencies for planning research and analysis, plan making, effective communication skills, working with diverse environments and communities, applying ethical principles, advocating for social justice, and employing geospatial technologies for planning applications and decision-making.
+
+### 波多黎各大学
+
+**University of Puerto Rico**
+
+Urban Planning: [The Graduate School of Planning ](http://planificacion.uprrp.edu/?page_id=445)
+
+[Master of Planning](http://planificacion.uprrp.edu/?page_id=43) with areas of emphasis in the fields of Urban and Territorial Planning, Planning of Society and Environment, Planning of Economic Development and Community. Current planning approaches are framed by changes in the international order of the economy (globalization), the decentralization of government and the transfer of powers and competencies to municipalities, and the greater participation of communities and the private sector in decisions and public interest interventions. Among the great challenges considered by the Master's Program of Study in Planning, are included: sub-urban sprawl, deterioration of the quality of life, inequality and social marginalization, and pollution and degradation of the environment and the natural resources observed on a global, regional and national scale in most countries, including Puerto Rico.
